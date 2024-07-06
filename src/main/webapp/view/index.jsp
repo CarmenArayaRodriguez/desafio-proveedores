@@ -9,7 +9,7 @@
 <body>
 <div class="container mt-5">
     <h2>Registrar Proveedor</h2>
-    <form method="POST" action="ProveedorServlet" class="mb-3">
+    <form method="POST" action="/DesafioProveedores/ProveedorServlet" class="mb-3">
         <div class="form-group">
             <label>Nombre:</label>
             <input type="text" name="nombre" required class="form-control">

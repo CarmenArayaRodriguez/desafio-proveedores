@@ -9,6 +9,6 @@
     <h1>Ha ocurrido un error</h1>
     <p>Lo sentimos, ha ocurrido un error procesando tu solicitud.</p>
     <p><%= request.getAttribute("error") %></p>
-    <a href="index.jsp">Volver al inicio</a>
+    <a href="view/index.jsp">Volver al inicio</a>
 </body>
 </html>
